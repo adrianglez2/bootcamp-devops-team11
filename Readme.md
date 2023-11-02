@@ -75,6 +75,11 @@
               Git
     </summary>
     <ul>
+       <li>
+          <p>
+              Nota: no se olviden hacer fecth and pull para traer nuevos cambios.
+          </p>
+      </li>
       <li>
           <p>
               <a href="https://pdfhost.io/v/86qKU30pz_GitVsGithub_2">
@@ -95,7 +100,8 @@
                     Learn Git Branching = game about learning Git!
               </a>
           </p>
-      </li>
+      </li>      
+     
     </ul>  
   </details>
 
